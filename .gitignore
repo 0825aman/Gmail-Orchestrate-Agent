@@ -1,0 +1,22 @@
+# OAuth2 token � auto-generated on first run, contains sensitive tokens
+token.json
+
+# Environment variables � contains API keys and secrets
+.env
+
+credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
