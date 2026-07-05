@@ -17,6 +17,7 @@ Local URLs:
   http://127.0.0.1:8000/docs   (Swagger UI)
   http://127.0.0.1:8000/health (Health check JSON)
 """
+import setup_files #Added for deployment on Render
 
 import asyncio
 
